@@ -17,7 +17,7 @@ const NavBar = () => {
                 <div className={'dropBoxes'}>
                     <div className={'forCorporates'}>FOR CORPORATES</div>
                     <div className={'forProviders'}>FOR PROVIDERS</div>
-                    <div className={'securityHelp'}>{`SECURITY &HELP`}</div>
+                    <div className={'securityHelp'}>{`SECURITY & HELP`}</div>
                 </div>
                 <button className={'button'}>
                     <div className={'loginsignUp'}>Login/Sign Up</div>
