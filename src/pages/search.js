@@ -1,10 +1,21 @@
 import './search.css';
+import pic from './pic3.jpg';
 
 const SearchBar = () => {
     return (
-        <div className="search-bar">
-            <input type="text" placeholder="Search" />
-            <button>Search</button>
+        <div class="search-container">
+            <form action="/search">
+                <select>
+                    <option>Rajamahendravaram</option>
+                    <option>Visakhapatnam</option>
+                    <option>Hyderabad</option>
+                    <option>Karkarduma</option>
+                </select>
+                <input type="text" placeholder="Search..." />
+                <button type="submit">Search</button>
+                <br />
+                <img src={pic} alt="pic" />
+            </form>
         </div>
     );
 };
