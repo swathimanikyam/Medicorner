@@ -13,7 +13,6 @@ const SearchBar = () => {
                 </select>
                 <input type="text" placeholder="Search..." />
                 <button type="submit">Search</button>
-                <br />
                 <img src={pic} alt="pic" />
             </form>
         </div>
