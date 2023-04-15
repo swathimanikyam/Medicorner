@@ -5,7 +5,7 @@ const SearchBar = () => {
     return (
         <div class="search-container">
             <form action="/search">
-                <select>
+                <select className="places">
                     <option>Rajamahendravaram</option>
                     <option>Visakhapatnam</option>
                     <option>Hyderabad</option>
