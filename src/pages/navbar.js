@@ -4,26 +4,24 @@ const NavBar = () => {
     return (
         <div className={'desktop1'}>
             <div className={'navbarSection'}>
-                <div className={'navBar'} />
                 <div className={'medicornerLogo'}>
-                    <div className={'medicornerLogo1'}>MEDICORNER</div>
+                    <button className={'medicornerLogo1'}>MEDICORNER</button>
                 </div>
                 <div className={'navlinks'}>
-                    <div className={'findDoctor'}>FIND DOCTOR</div>
-                    <div className={'vedioConsult'}>VEDIO CONSULT</div>
-                    <div className={'medicines'}>MEDICINES</div>
-                    <div className={'labTest'}>LAB TEST</div>
-                    <div className={'labTest'}>SURGERIES</div>
+                    <button className={'findDoctor'}>FIND DOCTOR</button>
+                    <button className={'vedioConsult'}>VEDIO CONSULT</button>
+                    <button className={'medicines'}>MEDICINES SHOP</button>
+                    <button className={'labTest'}>LAB TEST</button>
+                    <button className={'labTest'}>SURGERIES</button>
                 </div>
                 <div className={'dropBoxes'}>
                     <div className={'forCorporates'}>FOR CORPORATES</div>
                     <div className={'forProviders'}>FOR PROVIDERS</div>
-                    <div className={'securityHelp'}>{`SECURITY &HELP`}</div>
+                    <div className={'securityHelp'}>{`SECURITY & HELP`}</div>
                 </div>
-                <div className={'button'}>
-                    <div className={'buttonChild'} />
+                <button className={'button'}>
                     <div className={'loginsignUp'}>Login/Sign Up</div>
-                </div>
+                </button>
             </div>
         </div>
     );
