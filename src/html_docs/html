@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <link rel="Stylesheet" href="style.css">
+<div class="footer">
+  <div class="contain">
+  <div class="col">
+    <h1>Mediconrer</h1>
+    <ul>
+      <li>About</li>
+      <li>Biog</li>
+      <li>Careers</li>
+      <li>Press</li>
+      <li>Contant</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1>For patients</h1>
+    <ul>
+      <li>Search for doctors</li>
+      <li>Search for clinics</li>
+      <li>Search for hospitals</li>
+      <li>Book Diagnostic Tests</li>
+      <li>Read health articles</li>
+      <li>Read about medicines</li>
+      <li>Online doctor consultation</li>
+      <li>Order medicines</li>
+      <li>Mediconrer Drive</li>
+      <li>Health app</li>
+     <li>Book Full Body Checkups<br></li>
+     <li>Mediconrer Plus<br></li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1>For Doctor</h1>
+    <ul>
+      <li>Mediconrer Consult</li>
+      <li>Mediconrer Health Feed</li>
+      <li>Mediconrer Profile</li>
+      <li>Online Doctor Consultation</li>
+      <li>For clinics</li>
+      <li>Ray by Practo</li>
+      <li>mediconrer Reach</li>
+      <li>Ray Tab</li>
+      <li>Mediconrer Pro</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1>For hospitals</h1>
+    <ul>
+      <li>Insta by Mediconrer</li>
+      <li>Qikwell by Mediconrer</li>
+      <li>Mediconrer Profile</li>
+      <li>Mediconrer Reach</li>
+      <li>For Corporates</li>
+      <li>Wellness Plans</li>
+    </ul>
+  </div>
+  <div class="col">
+    <h1>More</h1>
+    <ul>
+      <li>Help</li>
+      <li>Developers</li>
+      <li>Privacy Policy</li>
+      <li>Terms & Conditions</li>
+      <li>Subscribers</li>
+      <li>Healthcare directory</li>
+      <li>Mediconrer Health Wiki
+    </ul>
+  </div>
+  <div class="col social">
+    <h1>Social</h1>
+    <ul>
+      <li>facebook</li><br>
+      <li>Github</li><br>
+      <li>Twitter</li><br>
+      <li>linkedin</li><br>
+      <li>Youtube</li><br>
+  </div>
+<div class="clearfix"></div>
+</div>
+</div>
+</head>
+</html>
